@@ -5,7 +5,7 @@
 
 1. установить docker и docker-compose;
 2. в папке 'ml' выполнить pip install requirements.txt;
-3. в папке с решением выполнить следующие команды:
+3. в папке с решением выполнить следующие команды:  
    docker-compose pull  
    docker-compose build  
    docker-compose up -d  
